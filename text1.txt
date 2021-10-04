@@ -1,0 +1,206 @@
+LOKI Build Report
+Default Configuration:
+Build Utility: 867.7
+Useable Utility: 848.7
+TOA Utility: 255.0
+
+Statistics
+STR:94/93     CON:76/75     DEX:95/94
+QUI:78/75     INT:0/75     PIE:0/75
+CHA:0/75     EMP:0/75
+Hits:268/264
+Power:0/25
+AF:20/50
+
+Resistances
+Body: 26
+Cold: 27
+Heat: 27
+Energy: 26
+Matter: 21
+Spirit: 23+5
+Crush: 29+2
+Slash: 24+3
+Thrust: 28
+
+Skills
+Flexible: 11
+Crush: 2
+Slash: 2
+Thrust: 2
+Shield: 11
+Staff: 2
+
+Bonuses
+Casting Speed: 2
+Spell Range: 4
+Spell Damage: 4
+Style Damage: 4
+Melee Damage: 8
+Melee Combat Speed: 5
+Fatigue: 5
+
+Chest (shGuard of Valour Tank):
+Imbue: 22.0
+40 Hits
+18 Strength
+15 Dexterity
+5 Strength Cap Increase
+5 Dexterity Cap Increase
+4 Melee Damage
+4 Style Damage
+4 Spell Range
+4 Spell Damage
+Utility: 32.0
+TOA Utility: 100.0
+
+Arms:
+Imbue: 37.5/32 (Quality: 100)
+22 Quickness
+4 Shield
+52 Hits
+9% Energy
+Utility: 65.7
+TOA Utility: 0.0
+
+Head (Winged Helm):
+Imbue: 28.0
+40 Hits
+5 Fatigue
+15 Dexterity
+5% Matter
+15 Strength
+5% Spirit
+10 AF
+Utility: 50.0
+TOA Utility: 20.0
+
+Legs:
+Imbue: 37.5/32 (Quality: 100)
+11% Energy
+7 Strength
+3 Shield
+5 Flexible
+Utility: 66.7
+TOA Utility: 0.0
+
+Hands:
+Imbue: 37.5/32 (Quality: 100)
+16 Dexterity
+28 Quickness
+19 Constitution
+52 Hits
+Utility: 55.0
+TOA Utility: 0.0
+
+Feet:
+Imbue: 37.5/32 (Quality: 100)
+1 Flexible
+28 Dexterity
+28 Quickness
+25 Constitution
+Utility: 59.0
+TOA Utility: 0.0
+
+Right Hand (Snakecharmer's Weapon):
+Imbue: 28.0
+4% Heat
+4% Cold
+4% Energy
+3 Melee Combat Speed
+4% Matter
+4% Body
+4% Spirit
+4 Melee Damage
+3 Flexible
+Utility: 63.0
+TOA Utility: 35.0
+
+Left Hand:
+Imbue: 37.0/32 (Quality: 100)
+16 Constitution
+9% Heat
+9% Cold
+4 Shield
+Utility: 66.7
+TOA Utility: 0.0
+
+Neck (Copper Neck):
+Imbue: 45.0
+10% Crush
+10% Thrust
+10% Body
+10% Spirit
+Utility: 80.0
+TOA Utility: 0.0
+
+Cloak (Cetus Melee Cloak):
+Imbue: 36.0
+8% Crush
+8% Slash
+8% Thrust
+2 ALL melee weapon skills
+16 Constitution
+Utility: 68.7
+TOA Utility: 0.0
+
+Jewel (Harpy feather charm):
+Imbue: 31.0
+6% Body
+6% Cold
+6% Heat
+6% Matter
+44 Hits
+Utility: 59.0
+TOA Utility: 0.0
+
+Belt (Plaited hair of Malamis):
+Imbue: 21.0
+21 Strength
+21 Dexterity
+7 Strength Cap Increase
+6 Dexterity Cap Increase
+2 Melee Combat Speed
+Utility: 28.0
+TOA Utility: 36.0
+
+Left Ring (Krojer's Strength Ring):
+Imbue: 17.0
+2% Energy
+2% Cold
+2% Heat
+21 Strength
+10 AF
+6 Strength Cap Increase
+Utility: 26.0
+TOA Utility: 22.0
+
+Right Ring (Ring of the torrent):
+Imbue: 38.0
+11% Crush
+10% Slash
+10% Thrust
+2 Casting Speed
+Utility: 62.0
+TOA Utility: 10.0
+
+Left Wrist (Ebon hide bracer):
+Imbue: 30.0
+6% Matter
+6% Slash
+6% Heat
+6% Body
+6% Cold
+Utility: 60.0
+TOA Utility: 0.0
+
+Right Wrist (Bracer of Moirai):
+Imbue: 17.0
+12 Strength
+40 Hits
+4% Spirit
+8 Dexterity Cap Increase
+64 Hits Cap Increase
+Utility: 26.0
+TOA Utility: 32.0
+
